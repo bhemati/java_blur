@@ -1,2 +1,2 @@
 # java_blur
-A parallel high performance blur algorithm written in Java
+A parallel blur algorithm written in Java
